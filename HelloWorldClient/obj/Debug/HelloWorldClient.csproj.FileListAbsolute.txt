@@ -1,0 +1,1 @@
+C:\Users\Taran\Documents\GitHub\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
